@@ -6,8 +6,8 @@
 [Setup]
 AppName=Gossamer
 AppVerName=Gossamer v0.1.0
-AppCopyright=Copyright © 2015-2018 SparrOSDeveloperTeam, 2019 Gossamer Official Team
-DefaultDirName={pf}\Gossamer Official Studios\Gossamer Unfinished v0.1.0
+AppCopyright=Copyright © 2015-2020 SparrOSDeveloperTeam, 2020 Gossamer Official Team
+DefaultDirName={pf}\Gossamer Official Studios\Gossamer Prototype v0.1.0
 UninstallDisplayIcon=gossamer-unins_icon.ico
 SetupIconFile=gossamer-setup_icon.ico
 LicenseFile=gossamer-setup_license.doc

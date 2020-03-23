@@ -15,6 +15,7 @@ WizardImageFile=gossamer-logo_164x314_bitmap.bmp
 WizardSmallImageFile=gossamer-logo_55x55_bitmap.bmp
 DisableWelcomePage=No
 MinVersion=6.1
+InfoBeforeFile=prereq.txt
 ; This must be set so Windows 7/8/10 users may run this program. Windows Vista and Xp WILL NOT BE SUPPORTED!!!
 
 ; [Types]

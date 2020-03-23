@@ -1,0 +1,9 @@
+Important Notice Regarding Unreal Engine Deployments
+
+If you have never launched an Unreal Engine executable and you don't have Steam: If you have never ran an Unreal Engine executable on your PC, it is highly recommended that you install the Unreal Engine Prerequisites. Prerequisites will install class runtimes that will optimize Unreal Engine projects. You may download the redistributables here: https://github.com/pjgossamer/redist
+
+If you have never launched an Unreal Engine executable and you have Steam: Log into your Steam Client and verify that you have the Steam Redistributables package installed. This will provide most of the optimizations provided in Unreal Engine Prerequisites.
+
+If you have launched an Unreal Engine executable but it was from a version lower than 4.19: You may need to install the prerequisites. If you ran Unreal Engine executables from Unreal Engine 4.02-4.09, you will have to install prerequisites. You can install the prerequisites from here: https://github.com/pjgossamer/redist
+
+If you have launched an Unreal Engine executable and it was 4.19 or above: You may disregard this entire section.

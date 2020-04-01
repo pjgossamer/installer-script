@@ -5,15 +5,17 @@
 
 [Setup]
 AppName=Gossamer
-AppVersion=0.0.0.6
+AppVersion=0.0.0.7
 AppVerName=Gossamer v0.0.0.7
-AppCopyright=Copyright Â© 2015-2020 SparrOSDeveloperTeam, 2020 Gossamer Official Team
-DefaultDirName={pf}\Gossamer Official Studios\Gossamer Prototype v0.0.0.6
+AppCopyright=Copyright © 2015-2020 SparrOSDeveloperTeam, 2019-2020 Gossamer Official Team
+DefaultDirName={pf}\Gossamer Official Studios\Gossamer Prototype v0.0.0.7
 ;UninstallDisplayIcon=gossamer-unins_icon.ico
 SetupIconFile=gossamer-setup_icon.ico
 ;LicenseFile=gossamer-setup_license.doc
 ;WizardImageFile=gossamer-logo_164x314_bitmap.bmp
 ;WizardSmallImageFile=gossamer-logo_55x55_bitmap.bmp
+OutputBaseFilename=gossamer-0.0.0.7-prealpha-setup
+OutputManifestFile=gossamer-0.0.0.7-prealpha-manifest.manifest
 DisableWelcomePage=No
 DiskSpanning=Yes
 DisableStartupPrompt=No
@@ -77,7 +79,7 @@ Source: "program-dir\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxPvdSDKPROF
 Source: "program-dir\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbis_64.dll"; DestDir: "{app}\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015"
 Source: "program-dir\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbisfile_64.dll"; DestDir: "{app}\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015"
 Source: "program-dir\Engine\Binaries\ThirdParty\Windows\DirectX\x64\WinPixEventRuntime.dll"; DestDir: "{app}\Engine\Binaries\ThirdParty\Windows\DirectX\x64"
-Source: "program-dir\Engine\Binaries\Win64\UE4Game.exe"; DestDir: "{app}\Engine\Binaries\Win64\UE4Game.exe"
+Source: "program-dir\Engine\Binaries\Win64\UE4Game.exe"; DestDir: "{app}\Engine\Binaries\Win64"
 Source: "program-dir\Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe"; DestDir: "{app}\Engine\Extras\Redist\en-us"
 Source: "program-dir\pjgossamer\Content\Paks\pjgossamer-WindowsNoEditor.pak"; DestDir: "{app}\pjgossamer\Content\Paks"
 

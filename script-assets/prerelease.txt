@@ -1,0 +1,19 @@
+By installing Project Gossamer, you automatically agree to the terms of
+PRERELEASE.
+
+TERMS OF THE PRERELEASE:
+
+1. At any time a new build of Project Gossamer is developed, the current
+   and all older builds of Project Gossamer must be recognized and
+   assumed "out dated", or closed to bug submission. This means that
+   the very second a new build is released, we will no longer be
+   tracking bugs.
+   
+2. Project Gossamer may appear incomplete or completely broken during
+   this phase. We do not offer any warranty or guarantee for any
+   builds on PRERELEASE.
+   
+3. You may be required to submit information during bug submission
+   process to help with Project Gossamer's development. Because of this
+   you must be at least 13 years old to participate in any PRERELEASE
+   event.

@@ -7,7 +7,7 @@
 AppName=Gossamer
 AppVersion=0.0.0.7
 AppVerName=Gossamer v0.0.0.7
-AppCopyright=Copyright © 2015-2020 SparrOSDeveloperTeam, 2019-2020 Gossamer Official Team
+AppCopyright=Copyright Â© 2015-2020 SparrOSDeveloperTeam, 2019-2020 Gossamer Official Team
 DefaultDirName={pf}\Gossamer Official Studios\Gossamer Prototype v0.0.0.7
 ;UninstallDisplayIcon=gossamer-unins_icon.ico
 SetupIconFile=gossamer-setup_icon.ico
@@ -22,6 +22,7 @@ DisableStartupPrompt=No
 ArchitecturesInstallIn64BitMode=x64
 ArchitecturesAllowed=x64
 MinVersion=6.1
+InfoBeforeFile=script-assets\prerelease.txt ; This is only for all Project Gossamer builds in the "PRERELEASE" build
 InfoAfterFile=script-assets\prereq.txt
 ; This must be set so Windows 7/8/10 users may run this program. Windows Vista and Xp WILL NOT BE SUPPORTED!!!
 

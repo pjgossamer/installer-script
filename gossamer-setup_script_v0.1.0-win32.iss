@@ -55,6 +55,7 @@ Source: "program-dir\msvcp140_1.dll"; DestDir: "{app}"
 Source: "program-dir\msvcp140_2.dll"; DestDir: "{app}"
 Source: "program-dir\msvcp140_codecvt_ids.dll"; DestDir: "{app}"
 Source: "program-dir\pjgossamer.exe"; DestDir: "{app}"
+Source: "program-dir\Report PJGossamer Issues.url"; DestDir: "{app}"
 Source: "program-dir\System.Data.dll"; DestDir: "{app}"
 Source: "program-dir\System.dll"; DestDir: "{app}"
 Source: "program-dir\System.Drawing.dll"; DestDir: "{app}"
@@ -87,6 +88,7 @@ Source: "program-dir\pjgossamer\Content\Paks\pjgossamer-WindowsNoEditor.pak"; De
 [Icons]
 Name: "{commondesktop}\Gossamer Launcher"; Filename: "{app}\gossamer-launcher.exe"; Tasks: desktopicon
 Name: "{group}\Gossamer Launcher"; Filename: "{app}\gossamer-launcher.exe"
+Name: "{group}\Report PJGossamer Issues"; Filename: "https: // gitreports.com / issue / pjgossamer / gossamer"
 
 [Run]
 Filename: "{app}\gossamer-launcher.exe"; Description: "Run &Gossamer"; Flags: postinstall nowait skipifsilent
